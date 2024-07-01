@@ -1,0 +1,14 @@
+{
+  "name": "com.unimob.console",
+  "version": "1.0.0",
+  "displayName": "com.unimob.console",
+  "description": "Unity Console Log",
+  "unity": "2021.3",
+  "dependencies": {
+  },
+  "author": {
+    "name": "unimob",
+    "email": "khanhquang0912qh@gmail.com",
+    "url": "https://unimob.com.vn"
+  }
+}  
